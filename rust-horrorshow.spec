@@ -5,8 +5,8 @@
 %global crate horrorshow
 
 Name:           rust-%{crate}
-Version:        0.7.0
-Release:        2%{?dist}
+Version:        0.8.9
+Release:        1%{?dist}
 Summary:        Templating library written in rust macros
 
 # Upstream license specification: MIT/Apache-2.0
